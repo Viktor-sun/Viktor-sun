@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, my name is Tsolka Viktor
+[![Gmail Badge](https://img.shields.io/badge/-yermak1037@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yermak1037@gmail.com)](mailto:yermak1037@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-yermakovaa-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yermakovaa/)](https://www.linkedin.com/in/yermakovaa/) [![Github Badge](https://img.shields.io/badge/-yermakovaa-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yermakovaa/)](https://www.github.com/yermakovaa/)
 
 <!--
 **Viktor-sun/Viktor-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
